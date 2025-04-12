@@ -25,7 +25,7 @@ Transform your photos into stunning Studio Ghibli-style artwork with AI! This fu
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ghibli-ai-generator.git
+git clone https://github.com/mikartisan/react-ghibli-ai.git
 cd ghibli-ai-generator
 
 # Install backend dependencies
