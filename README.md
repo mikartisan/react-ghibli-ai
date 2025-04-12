@@ -4,7 +4,7 @@ Transform your photos into stunning Studio Ghibli-style artwork with AI! This fu
 
 ✨ **[Live Demo](#)** *(Coming Soon)*
 
-![App Preview](screenshots/preview.png) *(Replace with actual screenshot)*
+![App Preview](screenshots/preview.png)
 
 ## ✨ Features
 - 🖼️ **Drag & drop image uploads**
