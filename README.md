@@ -2,6 +2,8 @@
 
 Transform your photos into stunning Studio Ghibli-style artwork with AI! This fullstack application blends the magic of Hayao Miyazaki's world with modern web technologies.
 
+⚠️ Note: This project uses free APIs, so it may stop working at any time due to rate limits or service availability.
+
 ✨ **[Live Demo](#)** *(Coming Soon)*
 
 ![App Preview](screentshots/preview.png)
@@ -33,5 +35,5 @@ cd server
 npm install
 
 # Install frontend dependencies
-cd ../client
+cd client
 npm install
